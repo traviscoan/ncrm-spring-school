@@ -8,3 +8,9 @@ This repo hosts the code (notebooks) and data used for the Text Analysis section
 * `\language-models`: Our last section covers the use of word embeddings and language models to examine semantic similarity between texts.
 
 All of the data used throughout the week will be available in `\data`. Holler if you have any questions!
+
+## Download materials
+
+You can download the materials for this class (as they become available) at the following:
+
+[https://www.dropbox.com/sh/u62608uz3eai5i0/AADi1BdhXUkj2a5Zr-sqHlRTa?dl=0]
