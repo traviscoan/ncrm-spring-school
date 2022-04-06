@@ -13,4 +13,4 @@ All of the data used throughout the week will be available in `\data`. Holler if
 
 You can download the materials for this class (as they become available) at the following:
 
-[https://www.dropbox.com/sh/u62608uz3eai5i0/AADi1BdhXUkj2a5Zr-sqHlRTa?dl=0]
+https://www.dropbox.com/scl/fo/3r9v1fca39g4rlo16vleg/h?dl=0&rlkey=cm3yo60ql7t6t75vamwz7vl7z
