@@ -3,9 +3,9 @@
 This repo hosts the code (notebooks) and data used for the Text Analysis section of the NCRM Spring School on Computational Communication. The folders refer to the various topics in the course and include:
 
 * `\preprocessing-lexicon`: This covers our introductory section which introduces you to the Python programming language, text preprocessing techniques, and lexicon-based analysis.
-* `\topic-models`: This section covers unsupervised approaches (e.g., topic models) for clustering text into topics or themes.
 * `\supervised-learning`: We cover supervised approach to text classification, using sentiment analysis as our working example.
 * `\language-models`: Our last section covers the use of large language models (LLMs) for zero-shot and few-shot classification.
+* `\topic-models`: This section covers unsupervised approaches (e.g., topic models) for clustering text into topics or themes.
 
 All of the data used throughout the week will be available in `\data`. Holler if you have any questions!
 
